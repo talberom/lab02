@@ -16,5 +16,6 @@ int main()
     else
         cout << "Cant divide because of denominator equals 0" << endl;
     cout << "Max(a, b): " << max(a, b) << endl;
+    cout << "Min(a, b): " << min(a, b) << endl;
     return 0;
 }
